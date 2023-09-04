@@ -70,16 +70,16 @@ body{
 .container .title .content h1{
     width: 650px;
     margin: auto;
-    font-size: 3.1rem;
+    font-size: 2.1rem;
     text-align: center;
 }
-.container .title .content h3{
+.container .title .content h4{
     width: 650px;
     margin: auto;
     font-size: 1.6rem;
     text-align: center;
 }
-.container .title .content form p{
+.container .title .content form h5{
     font-size: 1rem;
     margin: 18px 0;
     text-align: center;
