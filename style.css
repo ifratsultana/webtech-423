@@ -40,20 +40,7 @@ body{
     position: absolute;
     right: 50px;
 }
-.container .navbar .right .language{
-    margin: auto;
-    align-items: center;
-    justify-content: center;
-    font-size: 18px;
-    padding: 7px 10px;
-    color: white;
-    background: none;
-    cursor: pointer;
-    margin-right: 15px;
-}
-.container .navbar .right .language option{
-    background-color: grey;
-}
+
 .container .navbar .right button{
     margin: auto;
     align-items: center;
@@ -86,13 +73,13 @@ body{
     font-size: 3.1rem;
     text-align: center;
 }
-.container .title .content h2{
+.container .title .content h3{
     width: 650px;
     margin: auto;
     font-size: 1.6rem;
     text-align: center;
 }
-.container .title .content form h3{
+.container .title .content form p{
     font-size: 1rem;
     margin: 18px 0;
     text-align: center;
